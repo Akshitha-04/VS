@@ -1,0 +1,25 @@
+body {
+    background-image:url("pfg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    color: rgb(8, 1, 1);
+    text-align: center;
+}
+nav{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+        background-color:rosybrown;
+        width: 700px;
+        border: 15px solid black;
+        padding: 30px;
+        margin: 20px;
+      
+}
+img{
+    margin-right: 10%;
+}

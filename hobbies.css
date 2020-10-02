@@ -1,0 +1,9 @@
+body{
+    background-image:url("pfg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-shadow:20px 10px 30px red;
+}
+nav{
+    font-size: 40px;
+}
